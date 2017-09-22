@@ -31,4 +31,6 @@ Release Date: Jul 26, 2027
     -   swedish
 
 
-Trivial CI Upgrade - Jonathan
+-> Trivial CI Upgrade - Jonathan
+
+-> Continued with part 2 of tutorial: No prblems - Hiram (Takito)

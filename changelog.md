@@ -33,3 +33,4 @@ Release Date: Jul 26, 2027
 
 -> Trivial CI Upgrade - Jonathan
 -> Readding changes to finish part 2 - Takito(Hiram)
+-> A minor change to the render files - Takito

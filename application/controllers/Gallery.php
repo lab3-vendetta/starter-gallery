@@ -19,7 +19,8 @@ class Gallery extends Application
 	 */
 	public function index()
 	{
-		$this->load->view('gallery');
+        $this->date['pagebody'] = 'gallery';
+        $this->render();
 	}
 
 }

@@ -1,6 +1,6 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Hiram (Takito) Cabrera (Captain) & Jonathan Heggen (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
@@ -31,3 +31,7 @@ Release Date: Jul 26, 2027
     -   swedish
 
 
+-> Trivial CI Upgrade - Jonathan
+-> Readding changes to finish part 2 - Takito(Hiram)
+-> A minor change to the render files - Takito
+-> Database & Database functions for welcome and gallery - Jonathan

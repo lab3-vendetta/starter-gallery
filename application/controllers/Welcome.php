@@ -19,7 +19,8 @@ class Welcome extends Application
 	 */
 	public function index()
 	{
-		$this->load->view('welcome');
+		$this->date['pagebody'] = 'welcome';
+		$this->render();
 	}
 
 }

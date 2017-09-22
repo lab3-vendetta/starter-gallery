@@ -19,7 +19,7 @@ class About extends Application
 	 */
 	public function index()
 	{
-        $this->date['pagebody'] = 'about';
+        $this->data['pagebody'] = 'about';
         $this->render();
 	}
 
